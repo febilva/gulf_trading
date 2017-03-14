@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a13313-997e-4ab3-91b8-d97b88e97851" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/hugo-elate/static/images/4868.jpg" afterPath="$PROJECT_DIR$/themes/hugo-elate/static/images/background-image1.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hugo-elate/layouts/partials/hero.html" afterPath="$PROJECT_DIR$/themes/hugo-elate/layouts/partials/hero.html" />
     </list>
     <ignored path="febil.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/themes/hugo-elate/layouts/partials/hero.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="94" selection-start-line="0" selection-start-column="94" selection-end-line="0" selection-end-column="94" />
+              <caret line="0" column="102" selection-start-line="0" selection-start-column="102" selection-end-line="0" selection-end-column="102" />
               <folding />
             </state>
           </provider>
@@ -83,6 +85,7 @@
         <option value="$PROJECT_DIR$/themes/hugo-elate-theme/static/js/google_map.js" />
         <option value="$PROJECT_DIR$/themes/hugo-elate-theme/static/css/style.css" />
         <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/themes/hugo-elate/layouts/partials/hero.html" />
       </list>
     </option>
   </component>
@@ -273,6 +276,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/hugo-elate/static/images" />
       <recent name="$PROJECT_DIR$/themes/hugo-elate" />
       <recent name="$PROJECT_DIR$/themes/hugo-elate-theme/static/images" />
     </key>
@@ -357,12 +361,12 @@
       <workItem from="1489387141506" duration="39000" />
       <workItem from="1489388536251" duration="2149000" />
       <workItem from="1489396526530" duration="5145000" />
-      <workItem from="1489469576944" duration="1182000" />
+      <workItem from="1489469576944" duration="1581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15518000" />
+    <option name="totallyTimeSpent" value="15917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="788" extended-state="0" />
@@ -757,7 +761,7 @@
     <entry file="file://$PROJECT_DIR$/themes/hugo-elate/layouts/partials/hero.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="94" selection-start-line="0" selection-start-column="94" selection-end-line="0" selection-end-column="94" />
+          <caret line="0" column="102" selection-start-line="0" selection-start-column="102" selection-end-line="0" selection-end-column="102" />
           <folding />
         </state>
       </provider>
