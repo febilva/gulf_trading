@@ -370,10 +370,12 @@ h1, h2, h3, h4, h5, h6 {
 
 #fh5co-home {
   background-color: transparent;
-  background-size: cover;
-  background-attachment: fixed;
+  background-image: url(background_mini-142kb.jpg);
   position: relative;
   width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   overflow: hidden;
 }
 #fh5co-home .gradient {
