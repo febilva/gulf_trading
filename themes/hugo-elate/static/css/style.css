@@ -373,10 +373,11 @@ h1, h2, h3, h4, h5, h6 {
   background-image: url(background_mini-142kb.jpg);
   position: relative;
   width: 100%;
-  background-size: cover;
   background-attachment: fixed;
+  background-size: cover;
   background-repeat: no-repeat;
   overflow: hidden;
+  background-size:100% 100%;
 }
 #fh5co-home .gradient {
   position: absolute;
