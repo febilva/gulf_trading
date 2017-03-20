@@ -17,10 +17,10 @@ theme = "hugo-elate"
     brand = "GULF TRADING !"
     home = "Home"
     work = "Work"
-    testimonials = "Testimonials"
-    services = "Services"
-    about = "About"
     contact = "Contact"
+#    testimonials = "Testimonials"
+#    services = "Services"
+#    about = "About"
 
     # You can add custom links before or after the default links
     # Assign a weight to define the order
@@ -80,42 +80,42 @@ theme = "hugo-elate"
   # Work section
   [params.work]
     enable = true
-    title = "Work"
+    title = "Products We Provide"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
     [[params.work.row]]
-      img = "4508.jpg"
+      img = "work_image4.jpg"
       alt = "Image2"
-      title = "Project 1"
+      title = "Zebtra blinds"
       subtitle = "Branding"
 
     [[params.work.row]]
-      img = "wooden blinds.jpg"
+      img = "work_image4.jpg"
       alt = "Image2"
       title = "Project 2"
       subtitle = "Design"
 
     [[params.work.row]]
-      img = "work_3.jpg"
+      img = "work_image4.jpg"
       alt = "Image3"
       title = "Project 3"
       subtitle = "Design"
 
     [[params.work.row]]
-      img = "work_4.jpg"
+      img = "work_image4.jpg"
       alt = "Image4"
       title = "Project 4"
       subtitle = "Design"
 
     [[params.work.row]]
-      img = "work_5.jpg"
+      img = "work_image4.jpg"
       alt = "Image5"
       title = "Project 5"
       subtitle = "Design"
 
     [[params.work.row]]
-      img = "work_6.jpg"
+      img = "work_image4.jpg"
       alt = "Image6"
       title = "Project 6"
       subtitle = "Design"
