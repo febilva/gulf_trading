@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "Elate theme"
+title = "Gulf trading"
 languageCode = "en-us"
 theme = "hugo-elate"
 
@@ -264,7 +264,7 @@ theme = "hugo-elate"
         ["icon-home", "Arakkal building,near panikers hospital, <br> West nada ,kodungallur,thrissur,kerala"],
         ["icon-phone", "(91) 9846400992"],
         ["icon-envelope", "abil.tvr@gmail.com"],
-        ["icon-globe", '<a href="http://github.com/febilva" target="_blank"></a>']
+        ["icon-globe", '<a href="http://gulftrading.me/" target="_blank">GulfTrading</a>']
       ]
 
     name = "Name"
