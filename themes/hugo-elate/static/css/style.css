@@ -231,7 +231,7 @@ h1, h2, h3, h4, h5, h6 {
   #fh5co-header #navbar li.active a {
     background: transparent;
     background: none;
-    color: #FFFFFF !important;
+    color: #b78484 !important;
   }
   #fh5co-header #navbar li.active a span:before {
     visibility: visible;
@@ -378,6 +378,7 @@ h1, h2, h3, h4, h5, h6 {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  min-height: 400px;
 }
 #fh5co-home .gradient {
   position: absolute;
