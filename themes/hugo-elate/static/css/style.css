@@ -375,7 +375,6 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   background-repeat: no-repeat;
   overflow: hidden;
-  background-attachment: fixed;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
