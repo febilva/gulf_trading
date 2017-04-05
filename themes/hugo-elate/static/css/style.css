@@ -370,14 +370,11 @@ h1, h2, h3, h4, h5, h6 {
 
 #fh5co-home {
   background-color: transparent;
-  background-image: url(background_mini-142kb.jpg);
-  position: relative;
-  background-repeat: no-repeat;
   background-attachment: fixed;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  background-image: url(background_mini-142kb.jpg);
+  background-position: center center;
+  position: relative;
   background-size: cover;
-  min-height: 400px;
 }
 #fh5co-home .gradient {
   position: absolute;
@@ -905,13 +902,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: -35px;
 }
 #fh5co-work .section-heading h2 {
-  color: #fff;
+  color: #5E3023;
 }
 #fh5co-work .section-heading h2:after {
   background: rgba(255, 255, 255, 0.3);
 }
 #fh5co-work .section-heading h3 {
-  color: rgba(255, 255, 255, 0.8);
+  /*color: rgba(255, 255, 255, 0.8);*/
+  color:  #5E3023;
 }
 #fh5co-work .fh5co-project-item {
   display: block;

@@ -80,45 +80,29 @@ theme = "hugo-elate"
   # Work section
   [params.work]
     enable = true
-    title = "Products We Provide"
+    title = "Our Factory"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
     [[params.work.row]]
-      img = "work_image4.jpg"
+      img = "factory_image1.JPG"
       alt = "Image2"
       title = "Zebtra blinds"
       subtitle = "Branding"
 
     [[params.work.row]]
-      img = "work_image4.jpg"
+      img = "factory_image2.JPG"
       alt = "Image2"
       title = "Project 2"
       subtitle = "Design"
 
     [[params.work.row]]
-      img = "work_image4.jpg"
+      img = "factory_image3.JPG"
       alt = "Image3"
       title = "Project 3"
       subtitle = "Design"
 
-    [[params.work.row]]
-      img = "work_image4.jpg"
-      alt = "Image4"
-      title = "Project 4"
-      subtitle = "Design"
 
-    [[params.work.row]]
-      img = "work_image4.jpg"
-      alt = "Image5"
-      title = "Project 5"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_image4.jpg"
-      alt = "Image6"
-      title = "Project 6"
-      subtitle = "Design"
 
   # Testimonials section
   [params.testimonials]
