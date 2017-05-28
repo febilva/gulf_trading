@@ -52,7 +52,7 @@ theme = "hugo-elate-theme"
     url = "#"
     button = "Get In Touch"
     icon = "icon-bulb"
-    img = "img_7.jpg"
+#    img = "img_07.jpg"
 
   [[params.intro.item]]
     title = "Develop"
@@ -60,7 +60,7 @@ theme = "hugo-elate-theme"
     url = "#"
     button = "Click Me"
     icon = "icon-wrench"
-    img = "img_8.jpg"
+    img = "image8.jpg"
 
   [[params.intro.item]]
     title = "Launch"
@@ -68,7 +68,7 @@ theme = "hugo-elate-theme"
     url = "#"
     button = "Why us?"
     icon = "icon-rocket"
-    img = "img_10.jpg"
+    img = "work_image2.jpg"
 
   [params.intro.video]
     enable = true
