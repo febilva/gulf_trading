@@ -52,7 +52,7 @@ theme = "hugo-elate"
     url = "#"
     button = "Get In Touch"
 #    icon = "icon-bulb"
-    img = "img_07.jpg"
+    img = "img_08.jpg"
 
   [[params.intro.item]]
     title = "Venetian Blind"
@@ -60,7 +60,7 @@ theme = "hugo-elate"
     url = "#"
     button = "Click Me"
 #    icon = "icon-wrench"
-    img = "img_08.jpg"
+    img = "img_09.jpg"
 
   [[params.intro.item]]
     title = "Roller Blind"
