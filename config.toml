@@ -11,7 +11,7 @@ theme = "hugo-elate"
   # Meta
   author = ""
   description = ""
-  email = "febil.tvr@gmail.com"
+  email = "abil.tvr@gmail.com"
   # Navigation
   [params.navigation]
     brand = "GULF TRADING !"
