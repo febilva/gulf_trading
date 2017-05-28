@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23a13313-997e-4ab3-91b8-d97b88e97851" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hugo-elate-theme" afterPath="" />
-    </list>
+    <list default="true" id="23a13313-997e-4ab3-91b8-d97b88e97851" name="Default" comment="" />
     <ignored path="febil.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -325,12 +323,12 @@
       <workItem from="1491416263677" duration="3174000" />
       <workItem from="1491737504331" duration="273000" />
       <workItem from="1492065596945" duration="891000" />
-      <workItem from="1495969610753" duration="1278000" />
+      <workItem from="1495969610753" duration="1356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44287000" />
+    <option name="totallyTimeSpent" value="44365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="788" extended-state="6" />
