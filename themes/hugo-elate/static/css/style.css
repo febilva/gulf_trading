@@ -367,22 +367,17 @@ h1, h2, h3, h4, h5, h6 {
   -o-transition: 0s;
   transition: 0s;
 }
-@media screen and (max-width: 768px) {
-  #fh5co-home {
-    left: 50%;
-    margin-left: -512px;
-    background-color: red;
-  }
-}
+
 #fh5co-home {
   background-color: transparent;
-  background-attachment: fixed;
-  background-image: url(Zebra-Blinds.jpg);
-  background-position: center center;
-  position: relative;
   background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  width: 100%;
+  background-color: #52d3aa;
+  color: #fff;
+  overflow: hidden;
 }
-
 #fh5co-home .gradient {
   position: absolute;
   top: 0;
