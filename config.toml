@@ -249,7 +249,7 @@ theme = "hugo-elate"
     details = [
         ["icon-home", "Arakkal building,near panikers hospital, <br> West nada ,kodungallur,thrissur,kerala"],
         ["icon-phone", "(91) 9846400992"],
-        ["icon-envelope", "abil.tvr@gmail.com"],
+        ["icon-envelope", "<a href ='mailto:webmaster@abil.tvr@gmail.com'> abil.tvr@gmail.com</a>"],
         ["icon-globe", '<a href="http://gulftrading.me/" target="_blank">GulfTrading</a>']
       ]
 
