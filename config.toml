@@ -39,10 +39,8 @@ theme = "hugo-elate"
   
   # Hero section
   [params.hero]
-    title = "Gulf Trading Blinds Factory"
-    subtitle = 'Arakkal building,near panikers hospital, </br>
-                West nada ,kodungallur,thrissur,kerala </br>
-                ph: 9846400992'
+    title = "Blinds Factory"
+    subtitle = ''
  
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -50,7 +48,7 @@ theme = "hugo-elate"
 
   [[params.intro.item]]
     title = "Zebra Blind"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "is a latest product which compines the curtains,screens and rolling in one,"
     url = "#"
     button = "Get In Touch"
 #    icon = "icon-bulb"
@@ -83,9 +81,26 @@ theme = "hugo-elate"
   [params.work]
     enable = true
     title = "Our Factory"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Established in 2001,kerala,thrissur <br> we are professional manufacturer to produce for many kinds of zebra blinds,jacquard roller blinds,shangri-la blinds etc.. <br> is a collection of R&D, Production, Processing and Sales Window Decoration Material Company"
     footertext = ''
 
+    [[params.work.row]]
+      img = "factory_image1.JPG"
+      alt = "Image2"
+      title = "Zebtra blinds"
+      subtitle = "Branding"
+
+    [[params.work.row]]
+      img = "factory_image2.JPG"
+      alt = "Image2"
+      title = "Project 2"
+      subtitle = "Design"
+
+    [[params.work.row]]
+      img = "factory_image3.JPG"
+      alt = "Image3"
+      title = "Project 3"
+      subtitle = "Design"
     [[params.work.row]]
       img = "factory_image1.JPG"
       alt = "Image2"
@@ -243,7 +258,7 @@ theme = "hugo-elate"
     enable = true
     map = true
     title = "Get in touch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Feel Free To Contact Us At Any Momment"
     
     # Available icons: http://simplelineicons.com/
     details = [

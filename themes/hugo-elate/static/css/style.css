@@ -645,12 +645,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-services:before, #fh5co-services:after {
   position: absolute;
-  transform: rotate(-1.7deg);
-  -ms-transform: rotate(-1.7deg);
-  -webkit-transform: rotate(-1.7deg);
-  -o-transform: rotate(-1.7deg);
-  -moz-transform: rotate(-1.7deg);
-  background-color: #fff;
+  /*transform: rotate(-1.7deg);*/
+  /*-ms-transform: rotate(-1.7deg);*/
+  /*-webkit-transform: rotate(-1.7deg);*/
+  /*-o-transform: rotate(-1.7deg);*/
+  /*-moz-transform: rotate(-1.7deg);*/
+  /*background-color: #fff;*/
   content: "";
   z-index: 3;
   display: inline-block;
@@ -887,7 +887,9 @@ h1, h2, h3, h4, h5, h6 {
   /*-webkit-transform: rotate(-1.7deg);*/
   /*-o-transform: rotate(-1.7deg);*/
   /*-moz-transform: rotate(-1.7deg);*/
-  background-color: #fff;
+
+  /*comment it for services bottom padding*/
+  /*background-color: #fff;*/ 
   content: "";
   z-index: 3;
   display: inline-block;
