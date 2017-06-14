@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "Gulf trading"
+title = "Gulf trading | Blinds Factory"
 languageCode = "en-us"
 theme = "hugo-elate"
 
